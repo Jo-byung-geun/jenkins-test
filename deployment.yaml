@@ -13,7 +13,7 @@ spec:
   strategy: {}
   template:
     metadata:
-      labels:
+      labels:                                                                                                                                                                                                          
         app: nginx-react-docker
     spec:
       containers:
